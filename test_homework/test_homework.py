@@ -1,5 +1,4 @@
 from datetime import time
-import pytest
 
 def test_dark_theme_by_time():
     """
